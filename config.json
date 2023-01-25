@@ -1,0 +1,26 @@
+{
+    "port": "8080",
+    "discord": {
+        "token": "BOTのTOKEN",
+        "clientid": "1058258279651868792",
+        "clientsecret": "BOTのシークレット",
+        "siteurl": "https://jikun.shop/login",
+        "auturl": "https://discord.com/api/oauth2/authorize?client_id=1058258279651868792&redirect_uri=https://jikun.shop/login&response_type=code&scope=guilds.join%20identify",
+        "name": "ジーくん#5552",
+        "admin": "1052005326456631388"
+    },
+    "db": {
+        "host": "localhost",
+        "user": "root",
+        "pass": "unko",
+        "name": "shop"
+    },
+    "paypay": {
+        "token": "e084e3f3-ed09-4346-a6e5-55f23423a025",
+        "cid": "06c37366-12aa-4b4f-9581-8baabd9df84a",
+        "did":"073d54ff-3d1c-4a86-b5b9-314d4288f1c9"
+    },
+    "amount": 1000,
+    "month": 600,
+    "password":"jikun4545"
+}
